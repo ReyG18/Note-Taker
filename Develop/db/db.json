@@ -8,5 +8,10 @@
         "title": "First Note",
         "text": "Hello, World!",
         "id": "77af"
+    },
+    {
+        "title": "Second Note",
+        "text": "It works as intended!",
+        "id": "db42"
     }
 ]
